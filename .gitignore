@@ -1,0 +1,14 @@
+# Dependências e compilação
+
+/node_modules
+/dist
+/todo-list/node_modules
+/todo-list/.next
+
+# Lock files
+
+package-lock.json
+
+# Next
+
+/.next
